@@ -1,10 +1,10 @@
 # Factorio / Krastorio 2
 
 Required Mods:
-  Factorio Library
-  Factorio Standard Library
-  Krastorio 2
-  Quality of Life research
+  Factorio Library ; 
+  Factorio Standard Library ;
+  Krastorio 2 ; 
+  Quality of Life research ; 
  
   My original play through of Krastorio 2 was 140 hours, and I decided I needed to expand the grid from 1-2 trains to 1-8 and prove that simple circles are enough as intersections with the new train ai-pathing. Rather than deleting my entirebase I simply remade it in sandbox-mode.
   It took 60 hours to put it together after redesigned most of the core components, and the rest of the play-time has simply been idle-time or expanding mines. I incrementally increased science consuption to ensure integrity of system. The factory at this point plays itself.
