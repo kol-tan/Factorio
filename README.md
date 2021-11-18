@@ -1,4 +1,4 @@
-# Factorio
+# Factorio / Krastorio 2
 
 Mods Required:
   Factorio Library
